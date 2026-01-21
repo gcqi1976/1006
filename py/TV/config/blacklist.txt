@@ -577,3 +577,6 @@ piccpndks.v.kcdnvip.com:443
 smt.veryfast.filegear-sg.me:80
 101.66.194.59:9901
 my5353.com:443
+btjg.net:809
+101.74.28.18:9901
+123.160.235.53:9901
