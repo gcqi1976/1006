@@ -643,3 +643,5 @@ pull-hls-f11.douyincdn.com:80
 182.114.49.8:9901
 cdn9.163189.xyz:443
 rihou.cc:555
+101.66.198.218:9901
+hls.168.us.kg:80
