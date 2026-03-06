@@ -1,0 +1,47 @@
+name: 同步上游直播源并保留 config/demo.txt
+
+on:
+  schedule:
+    # 每天北京时间 00:00 执行（UTC 16:00）
+    - cron: '0 16 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  sync-with-preserve:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出本地仓库完整代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: 配置Git身份
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "action@github.com"
+
+      - name: 添加上游并拉取最新内容
+        run: |
+          git remote add upstream https://github.com/adminouyang/231006.git || true
+          git fetch upstream main
+
+      - name: 合并上游更新，强制保留 config/demo.txt
+        run: |
+          # 先尝试合并上游
+          git merge upstream/main --no-edit || true
+
+          # 强制保留你的 config/demo.txt 文件
+          git checkout --ours config/demo.txt
+
+          # 标记冲突已解决
+          git add -u
+
+          # 完成合并提交（如果有更新）
+          git commit -m "自动同步上游，保留 config/demo.txt" || echo "暂无上游更新"
+
+      - name: 推送到你的仓库
+        run: |
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
