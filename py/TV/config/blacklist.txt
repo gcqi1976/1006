@@ -92,3 +92,6 @@ tv-trtworld.live.trt.com.tr:443
 live.ottiptv.cc:443
 m3u8file.lstv.org.cn:80
 101.74.28.61:9901
+gxlive.snrtv.com:80
+156.238.248.80:8880
+edgeone.passwdword.xyz:443
