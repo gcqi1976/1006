@@ -106,3 +106,8 @@ iot-mqqt.111yao.cn:8080
 101.66.198.21:9901
 101.35.240.114:88
 111.221.137.234:44330
+gcwbndali.v.myalicdn.com:443
+tpc.x3322.net:9901
+other.ottiptv.cc:443
+112.123.243.37:50085
+goodiptv.club:443
