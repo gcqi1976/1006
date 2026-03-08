@@ -93,3 +93,6 @@ nas.hssvm.com:8888
 tv-trtworld.live.trt.com.tr:443
 litv.zapi.us.kg:80
 58.19.38.162:9901
+video.epaper.pybtv.cn:8080
+101.66.194.2:9901
+live.ottiptv.cc:443
