@@ -19,3 +19,4 @@ lbds.us.ci
 tvcdn.stream3.hndt.com
 120.211.62.180
 5ddce30eb4b55.streamlock.net
+58.17.116.69
