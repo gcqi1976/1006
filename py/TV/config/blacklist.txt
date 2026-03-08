@@ -101,3 +101,4 @@ live.tvfix.org:443
 153.0.171.163:9901
 111.221.137.234:44330
 tpc.x3322.net:9901
+cnpull.sccnfb.com:80
