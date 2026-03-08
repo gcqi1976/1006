@@ -106,3 +106,7 @@ cnpull.sccnfb.com:80
 p2.vzan.com:80
 iot-mqqt.111yao.cn:8080
 182.114.48.25:9901
+goodiptv.club:443
+tencentplay.gztv.com:443
+112.123.243.37:50085
+58.17.116.69:9903
