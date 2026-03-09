@@ -119,3 +119,4 @@ goodiptv.club:443
 156.238.248.80:8880
 liveout.xntv.tv:443
 other.ottiptv.cc:443
+cdn6.163189.xyz:443
