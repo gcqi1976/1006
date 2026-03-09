@@ -108,3 +108,6 @@ m3u8.channel.dzsm.com:443
 genglei.8866.org:9901
 101.66.195.98:9901
 iot-mqqt.111yao.cn:8080
+www.lwfz.fun:8800
+36.40.237.219:9999
+stream.hrbtv.net:80
