@@ -90,3 +90,7 @@ gdfire2.67890123.cn:8088
 58.48.37.158:1111
 api.kkitv.itv888.vip:8080
 www.tszhgjj.cn:7000
+iot-mqqt.111yao.cn:8080
+156.238.248.80:8880
+stream.hrbtv.net:80
+gdcucc.v1.mk:443
