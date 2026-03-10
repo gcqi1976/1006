@@ -106,3 +106,5 @@ gcalic.v.myalicdn.com:443
 stream.appwuhan.com:80
 153.0.171.163:9901
 ali-m-l.cztv.com:443
+www.lwfz.fun:8800
+tpc.x3322.net:9901
