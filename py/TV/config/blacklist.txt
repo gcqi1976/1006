@@ -89,3 +89,5 @@ scdytv.cn:1935
 sansat.net:88
 live.dameijunlian.cn:80
 1.94.31.214:35455
+edgeone.passwdword.xyz:443
+49.234.31.101:7040
