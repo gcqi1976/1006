@@ -100,3 +100,6 @@ genglei.8866.org:9901
 43.152.143.193:80
 wouu.net:9977
 livetv.skycf.eu.org:80
+stream.appwuhan.com:80
+36.40.237.58:9999
+222.214.208.34:59901
