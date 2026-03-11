@@ -115,3 +115,5 @@ iptv.4666888.xyz:80
 bxtv.3a.ink:80
 www.lwfz.fun:8800
 bxtv.3a.ink:443
+goodiptv.club:443
+36.40.237.58:9999
