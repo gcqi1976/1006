@@ -96,3 +96,8 @@ edgeone.passwdword.xyz:443
 r.jdshipin.com:80
 stream.appwuhan.com:80
 tpc.x3322.net:9901
+live.ottiptv.cc:443
+153.0.171.163:9901
+cdn2.163189.xyz:80
+ali-m-l.cztv.com:443
+cdn.163189.xyz:80
