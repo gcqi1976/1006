@@ -123,3 +123,4 @@ www.goodiptv.club:80
 vip1.xinketongxun.fun:8082
 antvlive.ab5c6921.cdnviet.com:80
 svip.high24-playback.com:443
+bcovlive-a.akamaihd.net:443
