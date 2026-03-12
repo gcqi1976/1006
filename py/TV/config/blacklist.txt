@@ -115,3 +115,4 @@ bp-livetytv.bestv.cn:80
 itv.iptv1688.top:2016
 61.173.144.157:9901
 vip1.xinketongxun.fun:8082
+stream.hrbtv.net:80
