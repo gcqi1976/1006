@@ -108,3 +108,6 @@ tpc.x3322.net:9901
 live.ottiptv.cc:443
 live.tvfix.org:443
 153.0.171.163:9901
+video.epaper.pybtv.cn:8080
+218.17.33.178:53290
+182.114.48.144:9901
