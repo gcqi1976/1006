@@ -14,3 +14,7 @@ live.ynurl.com
 pull-hls-f11.douyincdn.com
 play.kankanlive.com
 124.116.183.146
+111.221.137.234
+119.39.9.8
+183.237.95.108
+v3.mediacast.hk
