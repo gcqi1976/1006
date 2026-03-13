@@ -145,3 +145,6 @@ svipsvip.ffzyread1.com:443
 t.freetv.fun:443
 vip.ffzy-play6.com:443
 stream.sun0769.com:443
+mao.ffmking888.dpdns.org:443
+36.40.237.54:9999
+cdn3.163189.xyz:80
