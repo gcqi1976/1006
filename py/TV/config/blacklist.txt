@@ -137,3 +137,10 @@ liveout.xntv.tv:443
 112.123.243.37:50085
 d12a2vxqkkh1bo.cloudfront.net:443
 goodiptv.club:443
+125.42.150.235:9901
+119.91.7.169:2026
+vip.ffzy-play.com:443
+tv.pull.hebtv.com:80
+svipsvip.ffzyread1.com:443
+t.freetv.fun:443
+vip.ffzy-play6.com:443
