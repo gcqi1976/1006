@@ -119,3 +119,5 @@ stream.hrbtv.net:80
 123.129.70.178:9901
 tpc.x3322.net:9901
 bcovlive-a.akamaihd.net:443
+v3.mediacast.hk:443
+153.0.171.163:9901
