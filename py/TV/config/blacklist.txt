@@ -94,3 +94,5 @@ itv.iptv1688.top:2016
 tmpstream.hyrtv.cn:80
 175.8.28.207:9999
 vip.lqcc.xyz:15511
+live.wjyanghu.com:80
+stream.appwuhan.com:80
