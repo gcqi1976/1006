@@ -144,3 +144,4 @@ tv.pull.hebtv.com:80
 svipsvip.ffzyread1.com:443
 t.freetv.fun:443
 vip.ffzy-play6.com:443
+stream.sun0769.com:443
