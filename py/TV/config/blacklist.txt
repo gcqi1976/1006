@@ -121,3 +121,8 @@ tpc.x3322.net:9901
 bcovlive-a.akamaihd.net:443
 v3.mediacast.hk:443
 153.0.171.163:9901
+61.184.46.85:9901
+183.223.157.33:9901
+bp-resource-dfl.bestv.cn:80
+play-qukan.cztv.com:443
+bp-resource-dfl.bestv.cn:443
