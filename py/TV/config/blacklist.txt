@@ -121,3 +121,5 @@ goodiptv.club:443
 other.ottiptv.cc:443
 stream.hrbtv.net:80
 153.0.171.163:9901
+125.42.150.234:9901
+1.94.31.214:80
