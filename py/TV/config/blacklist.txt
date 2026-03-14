@@ -110,3 +110,6 @@ ali-m-l.cztv.com:443
 101.74.28.60:9901
 webcast.hkstv.tv:80
 cdn.jdshipin.com:8880
+www.goodiptv.club:80
+182.114.49.12:9901
+36.40.237.224:9999
