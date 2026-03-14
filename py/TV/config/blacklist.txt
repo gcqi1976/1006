@@ -96,3 +96,9 @@ live.wanyuannews.com:80
 101.74.28.60:9901
 61.173.144.157:9901
 148.113.160.49:14176
+123.129.70.178:9901
+stream.hrbtv.net:80
+cdn.163189.xyz:80
+live.ottiptv.cc:443
+webcast.hkstv.tv:80
+event.pull.hebtv.com:443
