@@ -108,3 +108,5 @@ p.ytelc.com:80
 ali-m-l.cztv.com:443
 221.13.234.195:9901
 101.74.28.60:9901
+webcast.hkstv.tv:80
+cdn.jdshipin.com:8880
