@@ -19,3 +19,5 @@ play.kankanlive.com
 183.237.95.108
 v3.mediacast.hk
 119.91.7.169
+183.223.157.33
+lbds.us.ci
