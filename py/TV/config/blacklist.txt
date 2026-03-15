@@ -130,3 +130,6 @@ tpc.x3322.net:9901
 198.16.100.186:8278
 goodiptv.club:443
 m3u8.channel.dzsm.com:443
+t.freetv.fun:443
+101.66.199.221:9901
+nn.7x9d.cn:80
