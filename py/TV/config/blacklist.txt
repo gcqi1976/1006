@@ -124,3 +124,5 @@ english-livetx.cgtn.com:80
 gdcucc.v1.mk:443
 play-live-hls.jxtvcn.com.cn:80
 tpc.x3322.net:9901
+183.223.157.33:9901
+153.0.171.163:9901
