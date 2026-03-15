@@ -270,8 +270,8 @@ CGTN外语纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 东方卫视,http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/dongfangwshd/600/index.m3u8?msisdn=20260315020204dc3ccb6c64764a95bc2766a55ec3ea2f&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260315020204&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=218.28.233.106&SecurityKey=20260315020204&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c56fc4c9f972e90428b3b1470ebd6e8d
 东方卫视,http://t.061899.xyz/tl/tl.php?id=dfws
 东方卫视,http://112.123.243.37:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-东方卫视,http://23.237.228.134/live3/dongfang.m3u8
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+东方卫视,http://23.237.228.134/live3/dongfang.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方卫视,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
@@ -605,15 +605,6 @@ NewTV动作电影,http://61.184.46.85:9901/tsfile/live/1024_1.m3u8?key=txiptv&pl
 纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 环球旅游,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/hqly/50/20250915/index.m3u8?msisdn=2026031500021800a611182f5d4fadb5310ac1a6ccdda9&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20260315000218&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=218.28.233.106&SecurityKey=20260315000218&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e0599352d735369d8de75d475afc255b
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
-☘️轮播,#genre#
-赵本山经典小品,https://goodiptv.club/douyu/9817716
-刀刀影院,https://goodiptv.club/douyu/747764
-热门港剧,https://goodiptv.club/douyu/5522351
-神乐影院,https://goodiptv.club/douyu/85894
-星爷房✔原,https://goodiptv.club/douyu/122402
-邵氏影院,https://goodiptv.club/douyu/4246519
-特辑电影,https://goodiptv.club/douyu/3637778
-可乐影院,https://goodiptv.club/douyu/20415
 ☘️北京市,#genre#
 北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1742954511&sign=5241ba5667bd08639fd195ea9db6da5a
 北京纪实科教,http://101.35.240.114:88/brtv8k.php
@@ -752,12 +743,6 @@ NewTV动作电影,http://61.184.46.85:9901/tsfile/live/1024_1.m3u8?key=txiptv&pl
 湖北生活,http://61.184.46.85:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 荆州垄上,http://61.184.46.85:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 荆州新闻,http://61.184.46.85:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
-武汉电视剧,http://stream.appwuhan.com/2tzb/sd/live.m3u8
-武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
-武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
-武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
-武汉外语,http://stream.appwuhan.com/6tzb/sd/live.m3u8
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 ☘️江苏省,#genre#
 江苏城市,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=202603150002106060ae2889374099b271ea1d9f0da3ea&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20260315000210&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=218.28.233.106&SecurityKey=20260315000210&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2cba3c16447e7bbb1cf81c19b10c0d35
@@ -852,7 +837,6 @@ NewTV动作电影,http://61.184.46.85:9901/tsfile/live/1024_1.m3u8?key=txiptv&pl
 ☘️辽宁省,#genre#
 ☘️四川省,#genre#
 旺苍新闻综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
-朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
 长宁综合,http://cnpull.sccnfb.com:80/live/123456.m3u8
 雅安新闻综合,https://play.yunxya.com/channellive/xinwen.m3u8
@@ -909,8 +893,8 @@ NewTV动作电影,http://61.184.46.85:9901/tsfile/live/1024_1.m3u8?key=txiptv&pl
 ☘️港·澳·台,#genre#
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
 凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰中文,http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
 凤凰中文,http://101.35.240.114:88/phenix.php?id=fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
@@ -921,10 +905,10 @@ NewTV动作电影,http://61.184.46.85:9901/tsfile/live/1024_1.m3u8?key=txiptv&pl
 凤凰资讯,http://101.35.240.114:88/phenix.php?id=fhzx
 凤凰香港台,http://cdn6.163189.xyz/163189/fhhk
 凤凰香港台,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰香港台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk TVB
-凤凰香港台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk
 凤凰香港台,http://r.jdshipin.com/yDoTN
 凤凰香港台,http://r.jdshipin.com/NfC0f
+凤凰香港台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk TVB
+凤凰香港台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk
 凤凰香港台,http://bxtv.3a.ink/api.php?id=fhhk
 凤凰香港台,http://101.35.240.114:88/phenix.php?id=fhhk
 经典香港电影,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/virtuallive/5100180869/75/index.m3u8?msisdn=2026031504021429a7836c28614f9aae3810adca0c69b3&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20260315040214&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=218.28.233.106&SecurityKey=20260315040214&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=eb49bb3f32f644de9142a219f5225122
@@ -954,19 +938,19 @@ TVB翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 TVB翡翠台,http://cdn6.163189.xyz/163189/fct4k
 TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-TVB翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
-TVB翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
 TVB翡翠台,http://r.jdshipin.com/qClQf
 TVB翡翠台,http://r.jdshipin.com/qrfbg
 TVB翡翠台,http://r.jdshipin.com/62WM7
 TVB翡翠台,http://r.jdshipin.com/n90gt
+TVB翡翠台,http://r.jdshipin.com/GeWKr
+TVB翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
 翡翠台北美版,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 TVB明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 TVB明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-TVB明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
-TVB明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
 TVB明珠台,http://r.jdshipin.com/ZQ4kN
 TVB明珠台,http://r.jdshipin.com/jUx8K
+TVB明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVB明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
 TVB明珠台,http://bxtv.3a.ink/api.php?id=mz
 TVB千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 TVB千禧经典,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
@@ -1049,7 +1033,6 @@ TVBJ1,http://cdn3.163189.xyz/live/j1/stream.m3u8
 中视菁采,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv064
 中视菁采,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv064
 中视新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv074
-中视新闻,http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
 中天新聞台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv009
 中天新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
 中天新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv009
@@ -1166,8 +1149,8 @@ VIUTV,http://bxtv.3a.ink/api.php?id=viutv
 靖洋戏剧台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv045
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-美亚电影台,http://iptv.4666888.xyz/iptv2A.php?id=30
 美亚电影台,http://ali.hlspull.yximgs.com/live/awei_mydy.flv
+美亚电影台,http://iptv.4666888.xyz/iptv2A.php?id=30
 民视影剧台,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv09
 民视影剧台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv09
 民视影剧台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-ftv09
@@ -1183,7 +1166,6 @@ VIUTV,http://bxtv.3a.ink/api.php?id=viutv
 民视综艺台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv004
 民视综艺台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv004
 民视综艺台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv004
-年代新闻,http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
@@ -1251,12 +1233,10 @@ AMC电影,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv017
 2025年春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 2026-03-14_05:33:07,http://example.com/update_time.mp4
 2026-03-15 04:17:31,http://kakaxi.indevs.in/Disclaimer.mp4
-3030相声小品,https://goodiptv.club/douyu/9286868
 ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-baby丶贝贝431460,https://goodiptv.club/douyu/431460
 Bloomberg Originals,https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
 BTV卡酷,http://113.25.252.226:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CBC News,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
@@ -1280,10 +1260,9 @@ NBC,https://jmp2.uk/sam-GBBB1500004LG.m3u8
 NOW新闻,http://bxtv.3a.ink/api.php?id=now
 NOW新闻,https://bxtv.3a.ink/api.php?id=baogu
 NOW新闻,https://bxtv.3a.ink/api.php?id=xingying
-Poison丶冰冰74374,https://goodiptv.club/douyu/74374
 RT Arabic,https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
-RT DE,https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
 RT DE,https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
+RT DE,https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
 RT Doc-Русский,https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 RT Español,https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
@@ -1297,21 +1276,16 @@ Smart知識台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn19
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,http://r.jdshipin.com/TcKr2
-一把钢刀镇斗虞7356023,https://goodiptv.club/douyu/7356023
-万事通熊猫7812810,https://goodiptv.club/douyu/7812810
-万合出品,https://goodiptv.club/douyu/9220456
 三明综合,http://8.138.7.223/tv/fjtv1.php?id=sm1
 中华功夫,http://www.cdnstv.com:6398/hls/1120/index.m3u
 中华特产,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/zhtc/50/20251103/index.m3u8?msisdn=20260315000218f93002ab089548ae89a50a3f35a0bfcb&mdspid=&spid=600697&netType=0&sid=5910022295&pid=2028597139&timestamp=20260315000218&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=959986618&ParentNodeID=-99&assertID=5910022295&client_ip=218.28.233.106&SecurityKey=20260315000218&promotionId=&mvid=5900006771&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d1378a660e5ba045d92cb2376d7cf055
 中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 乐家购物,http://112.46.105.20:8009/hls/23/index.m3u8
 体坛名栏汇,http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/titanminglan/600/index.m3u8?msisdn=20260315000207397c948dc7894c48938447411d4d7615&mdspid=&spid=699004&netType=0&sid=5500315687&pid=2028597139&timestamp=20260315000207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629943305&ParentNodeID=-99&assertID=5500315687&client_ip=218.28.233.106&SecurityKey=20260315000207&promotionId=&mvid=5101034219&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=715e4d647b1f4fa461d6de84fc65e7e1
-傲娇的超级赛亚人,https://goodiptv.club/douyu/4373285
 公共新闻频道,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jsgonggong/600/index.m3u8?msisdn=2026031500021181e35e2656d9416ba7d8f219dfe5361c&mdspid=&spid=699067&netType=0&sid=5500260520&pid=2028597139&timestamp=20260315000211&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064693&ParentNodeID=-99&assertID=5500260520&client_ip=218.28.233.106&SecurityKey=20260315000211&promotionId=&mvid=5100186429&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5902e3eec15807c1051c16415a1fecb4
 凤凰古城东关门,https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
 凤凰古城南华山,https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
 半島國際新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv10
-单纯的顺才少爷10084875,https://goodiptv.club/douyu/10084875
 南县新闻,http://183.215.134.239:19901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 南平综合,http://8.138.7.223/tv/fjtv1.php?id=np1
 南方影视,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/nfmedia/nfys/1000/index.m3u8?msisdn=202603150002154e8e8ce49ab4464f826ac954dd6ac828&mdspid=&spid=699054&netType=0&sid=2206173738&pid=2028597139&timestamp=20260315000215&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614961829&ParentNodeID=-99&assertID=2206173738&client_ip=218.28.233.106&SecurityKey=20260315000215&promotionId=&mvid=2206173738&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d0f9d7a33bd1ad63f36917180c64071f
@@ -1337,32 +1311,19 @@ ViuTV,http://r.jdshipin.com/TcKr2
 和美乡途轮播台,http://hlsztemgsplive.miguvideo.com:8080/migu/virtuallive2/5900002411/50/20210706/index.m3u8?msisdn=20260315000215f3ead188827446c482e92c589306aa62&mdspid=&spid=800033&netType=0&sid=5910019525&pid=2028597139&timestamp=20260315000215&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=713591450&ParentNodeID=-99&assertID=5910019525&client_ip=218.28.233.106&SecurityKey=20260315000215&promotionId=&mvid=5900002421&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0361140fafc89de1ad60458a6386f52a
 咪咕视频4K,http://r.jdshipin.com/ln4xk
 咪咕视频4K-2,http://r.jdshipin.com/Lqdwf
-奇光主播8009547,https://goodiptv.club/douyu/8009547
-奇光主播e11849873,https://goodiptv.club/douyu/11849873
-奇光主播q12560807,https://goodiptv.club/douyu/12560807
 宁德新闻综合,http://8.138.7.223/tv/fjtv1.php?id=nd1
 安徽经视,http://112.123.243.37:50085/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-宋小宝经典小品,https://goodiptv.club/douyu/9817729
 宿迁新闻综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/sqxinwenzonghe/600/index.m3u8?msisdn=2026031500021294880231e1dc489fbad3fcc18fe7bc41&mdspid=&spid=699067&netType=0&sid=5500469357&pid=2028597139&timestamp=20260315000212&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731832&ParentNodeID=-99&assertID=5500469357&client_ip=218.28.233.106&SecurityKey=20260315000212&promotionId=&mvid=5102012616&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=577d0387712606399da8556213fe362c
-小毅主播e11851549,https://goodiptv.club/douyu/11851549
-小毅主播q6906628,https://goodiptv.club/douyu/6906628
-师落6911044,https://goodiptv.club/douyu/6911044
 平潭综合,http://8.138.7.223/tv/fjtv1.php?id=pttv
-开心锤锤,https://goodiptv.club/douyu/9018297
-当铁手团遇到光复社5875025,https://goodiptv.club/douyu/5875025
 影迷數位電影台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv011
 影迷數位電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv011
 影迷數位電影台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv011
-怡宝妹妹丶434971,https://goodiptv.club/douyu/434971
-懒猫是只喵260322,https://goodiptv.club/douyu/260322
-我砸晕了牛顿奥1218414,https://goodiptv.club/douyu/1218414
 抗战经典影片,http://hlsztemgsplive.miguvideo.com:8080/wd-virtuallive5100002089-75/index.m3u8?msisdn=202603150402145d96d3261f2e41059173f90bcdcd27fe&mdspid=&spid=800033&netType=0&sid=5500002717&pid=2028597139&timestamp=20260315040214&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=617432318&ParentNodeID=-99&assertID=5500002717&client_ip=218.28.233.106&SecurityKey=20260315040214&promotionId=&mvid=5100002089&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a3507553aed079e1c998990a089e6fd0
 抗战经典影片,http://hlsztemgsplive.miguvideo.com:8080/wd-virtuallive5100002089-75/index.m3u8?msisdn=20260315000214e9ab1f81fe234231a1a459d67223438c&mdspid=&spid=800033&netType=0&sid=5500002717&pid=2028597139&timestamp=20260315000214&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=617432318&ParentNodeID=-99&assertID=5500002717&client_ip=218.28.233.106&SecurityKey=20260315000214&promotionId=&mvid=5100002089&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9d945be855fee6ee0359fdc42ad4560c
 收藏天下,http://www.cdnstv.com:6398/hls/1118/index.m3u8
 新动力量创一流,http://hlsztemgsplive.miguvideo.com:8080/migu/virtuallive2/5900002409/50/20210706/index.m3u8?msisdn=20260315000217ca1707189713483eaf42546af060e839&mdspid=&spid=800033&netType=0&sid=5910019523&pid=2028597139&timestamp=20260315000217&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=713589837&ParentNodeID=-99&assertID=5910019523&client_ip=218.28.233.106&SecurityKey=20260315000217&promotionId=&mvid=5900002419&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4b4ce0115d459c7818b36173710e3505
 旅游卫视,http://112.123.243.37:50085/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
 旅游卫视,http://36.136.38.87:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
-日本女子摔角,https://goodiptv.club/douyu/425809
 星光影视,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 時尚運動X,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv014
 時尚運動X,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv014
@@ -1382,9 +1343,6 @@ ViuTV,http://r.jdshipin.com/TcKr2
 未知频道,http://cdn.jdshipin.com:8880/huya.php?id=29982675
 未知频道,http://cdn.jdshipin.com:8880/huya.php?id=11342386
 未知频道,http://cdn.jdshipin.com:8880/huya.php?id=11342390
-橙記Orange丶4549169,https://goodiptv.club/douyu/4549169
-欢乐综艺,https://goodiptv.club/douyu/131977
-永远快乐的小美女6091425,https://goodiptv.club/douyu/6091425
 求索纪录,http://tvbox6.icu/tv/gdmzyd.php?id=104
 沙湾融媒,http://tvfile.swrmt.com:80/nmip-media/channellive/channel100064/playlist.m3u8
 河南公共,http://1.94.31.214/php/hntv.php?id=hngg
@@ -1406,7 +1364,6 @@ ViuTV,http://r.jdshipin.com/TcKr2
 熊猫频道7,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao07/1000/index.m3u8?msisdn=20260315000216452e873ff39f47f7904c799366498174&mdspid=&spid=699004&netType=0&sid=2200192831&pid=2028597139&timestamp=20260315000216&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609169286&ParentNodeID=-99&assertID=2200192831&client_ip=218.28.233.106&SecurityKey=20260315000216&promotionId=&mvid=2200192831&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=65d0b18efd35a302715a22269810f1db
 熊猫频道8,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao08/1000/index.m3u8?msisdn=20260315000217f44d4230b6794da6bfe145945531693b&mdspid=&spid=699004&netType=0&sid=2200192881&pid=2028597139&timestamp=20260315000217&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609169287&ParentNodeID=-99&assertID=2200192881&client_ip=218.28.233.106&SecurityKey=20260315000217&promotionId=&mvid=2200192881&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=176eb0afc1f7f9e39475bd27f66b0929
 熊猫频道9,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao09/1000/index.m3u8?msisdn=202603150002174bfbbb75d4d443c5bf73df171e488708&mdspid=&spid=699004&netType=0&sid=2200192899&pid=2028597139&timestamp=20260315000217&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609169226&ParentNodeID=-99&assertID=2200192899&client_ip=218.28.233.106&SecurityKey=20260315000217&promotionId=&mvid=2200192899&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=25b8688e8568c9412794b7ad1717d099
-牛叔说电影2758565,https://goodiptv.club/douyu/2758565
 珠江卫视,http://iptv.4666888.xyz/iptv2A.php?id=19
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 盐城新闻综合,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ycxwzh/50/20250604/index.m3u8?msisdn=20260315000211d0e24bcdb53b4c57a108bfb04e1d0ae0&mdspid=&spid=699067&netType=0&sid=5500469360&pid=2028597139&timestamp=20260315000211&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731825&ParentNodeID=-99&assertID=5500469360&client_ip=218.28.233.106&SecurityKey=20260315000211&promotionId=&mvid=5102012617&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=86be4ae3f026ed83d45ca8a6f6f0fcff
@@ -1417,29 +1374,17 @@ ViuTV,http://r.jdshipin.com/TcKr2
 福建乡村振兴公共,http://8.138.7.223/tv/fjtv1.php?id=fjxc
 移动,http://49.234.31.101:7033/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 移动戏曲,http://1.94.31.214/php/hntv.php?id=ydxj
-竹叶的熊猫3870925,https://goodiptv.club/douyu/3870925
 第1商業台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv104
 第1商業台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv104
 第1商業台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv104
 第1商業台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv104
-米尼影院7642724,https://goodiptv.club/douyu/7642724
-粤语电影丶1226741,https://goodiptv.club/douyu/1226741
-精彩短剧看不停,https://goodiptv.club/douyu/11824307
 经典动画大集合,http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/jingdiandonghua/600/index.m3u8?msisdn=20260315000217b78ac7271bbd4fd8bf3b5a0bb3cd475c&mdspid=&spid=699004&netType=0&sid=5500315652&pid=2028597139&timestamp=20260315000217&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942219&ParentNodeID=-99&assertID=5500315652&client_ip=218.28.233.106&SecurityKey=20260315000217&promotionId=&mvid=5101034205&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b16bf6a5ec05c7b92ea18e3637430a9b
-经典小品,https://goodiptv.club/douyu/9067836
-网神影厅508118,https://goodiptv.club/douyu/508118
 美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
 美國之音,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv03
 美國之音,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-ftv03
-聚聚聚一个月4105989,https://goodiptv.club/douyu/4105989
-苹果Zei妖2793084,https://goodiptv.club/douyu/2793084
-苹果Zei甜1174353,https://goodiptv.club/douyu/1174353
 茶,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmc/50/20251225/index.m3u8?msisdn=2026031500021876b2f536c1b44ec08afdefcb419a56da&mdspid=&spid=600603&netType=0&sid=5910022320&pid=2028597139&timestamp=20260315000218&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930369&ParentNodeID=-99&assertID=5910022320&client_ip=218.28.233.106&SecurityKey=20260315000218&promotionId=&mvid=5900006785&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=57963d3306f1696d0f86ee2cec6139e0
 茶频道,http://drive.mxmy.net:8888/udp/239.3.1.165:8001
-草帽丶海贼团997925,https://goodiptv.club/douyu/997925
 莆田综合,http://8.138.7.223/tv/fjtv1.php?id=pt1
-萌小鬼3928,https://goodiptv.club/douyu/3928
-蕃薯粥粥煮好了11878141,https://goodiptv.club/douyu/11878141
 視納華仁紀實,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv013
 視納華仁紀實,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv013
 豬哥亮歌廳秀,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv006
@@ -1447,21 +1392,15 @@ ViuTV,http://r.jdshipin.com/TcKr2
 豬哥亮歌廳秀,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv006
 财富天下,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cftx/50/20250804/index.m3u8?msisdn=202603150002132c9264dca28343cd8309cc9fdee2b711&mdspid=&spid=600697&netType=0&sid=5910022193&pid=2028597139&timestamp=20260315000213&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923159&ParentNodeID=-99&assertID=5910022193&client_ip=218.28.233.106&SecurityKey=20260315000213&promotionId=&mvid=5900006715&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1a66303d4367fe32743b35cc3127e584
 财富天下,http://49.234.31.101:7033/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
-贾贵队长真男神299854,https://goodiptv.club/douyu/299854
 赛事最经典,http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/saishijingdian/600/index.m3u8?msisdn=202603150002070d01b9a52da04fdd8a8dfb6da83ffdc6&mdspid=&spid=699004&netType=0&sid=5500592947&pid=2028597139&timestamp=20260315000207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=646596895&ParentNodeID=-99&assertID=5500592947&client_ip=218.28.233.106&SecurityKey=20260315000207&promotionId=&mvid=5101034296&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f1f71af3213912295fcaca153dad65a0
-赵本删不删,https://goodiptv.club/douyu/9837104
-过往1908 8721095,https://goodiptv.club/douyu/8721095
 達文西頻道,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv018
 達文西頻道,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv018
 達文西頻道,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv018
 鏡電視新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv075
 鏡電視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv075
-铁甲影院,https://goodiptv.club/douyu/1274132
-阿七点歌台,https://goodiptv.club/douyu/3186217
 非凡商業,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv048
 非凡新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
 非凡新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv010
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 鹿泉二套,https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
 黄龙,https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
-龍組队长天昊1487654,https://goodiptv.club/douyu/1487654
