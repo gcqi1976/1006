@@ -139,3 +139,6 @@ piccpndks.v.kcdnvip.com
 120.202.94.181
 satellitepull.cnr.cn
 zmgd.zyrnet.com
+p.ytelc.com
+111.231.6.102
+d12a2vxqkkh1bo.cloudfront.net
