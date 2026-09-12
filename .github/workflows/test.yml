@@ -1,8 +1,8 @@
-name: ip_validity_检测
+name: test.py
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */2 * * *"
   workflow_dispatch:          # 手动触发
 
 jobs:
@@ -25,16 +25,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
           
-      - name: Run ip_validity.py 
-        run:  |
-          python py/测试/ip_validity.py 
-          python py/fofa/Detection_ip.py
+      - name: Run test.py 
+        run:  python py/测试/test.py    
         
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git commit -m "更新ip检测"
+          git commit -m "更新ip"
           # git commit *.m3u -m "Add generated file"
-          git push --force origin main
+          git push --force origin main        

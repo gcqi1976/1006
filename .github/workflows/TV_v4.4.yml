@@ -1,4 +1,4 @@
-name: TV_v4.6
+name: TV_v4.5
 
 on:
   # 定时运行，例如每天16:00 UTC（即每天凌晨00:00上海时间）
@@ -16,7 +16,7 @@ jobs:
       uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v4
       with:
         python-version: '3.9'
         
@@ -31,7 +31,7 @@ jobs:
 
     - name: Run Python Script
       run: |
-        python py/TV/v4.6.py
+        python py/TV/v4.5.py
 
     - name: Commit Results
       run: |
