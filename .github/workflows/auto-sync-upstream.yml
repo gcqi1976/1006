@@ -1,0 +1,55 @@
+name: 强制同步上游并永久保留工作流
+
+on:
+  schedule:
+    # 每天北京时间 00:00 执行（UTC 16:00）
+    - cron: '0 16 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  sync-force-preserve-workflow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出本地仓库代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+          persist-credentials: false
+
+      - name: 备份工作流目录
+        run: |
+          # 先把整个 workflows 目录备份到服务器临时目录
+          if [ -d ".github/workflows" ]; then
+            cp -r .github/workflows /tmp/
+          fi
+
+      - name: 配置Git身份
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "action@github.com"
+
+      - name: 强制同步上游所有内容
+        run: |
+          git remote add upstream https://github.com/adminouyang/231006.git || true
+          git fetch upstream main
+          # 强制覆盖为上游最新代码
+          git reset --hard upstream/main
+
+      - name: 恢复工作流目录
+        run: |
+          # 从备份中恢复 workflows 目录
+          if [ -d "/tmp/workflows" ]; then
+            rm -rf .github/workflows
+            mv /tmp/workflows .github/
+          fi
+
+      - name: 提交并强制推送
+        run: |
+          if ! git diff --quiet; then
+            git add .github/workflows
+            git commit -m "同步上游，恢复自动同步工作流"
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/gcqi1976/1006.git main --force
+          else
+            echo "无变更，无需推送"
+          fi
