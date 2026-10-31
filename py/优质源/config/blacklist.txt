@@ -56,3 +56,5 @@ gslbserv.itv.cmvideo.cn
 36.155.98.21
 stream.jinjiang.tv
 video10.qtv.com.cn
+epg.pw
+8.138.7.223
