@@ -58,3 +58,9 @@ stream.jinjiang.tv
 video10.qtv.com.cn
 epg.pw
 8.138.7.223
+m3u8channel-bx.yunxya.com
+bp-resource-dfl.bestv.cn
+111.59.139.82
+1yp7hc5p.live.sxmty.com
+p2hs.vzan.com
+60.222.246.220
